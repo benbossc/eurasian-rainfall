@@ -1,0 +1,32 @@
+{
+    "id": "F374BCB0",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1611681299352.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "weatherStations",
+        "caption": "weatherStations",
+        "totalObservations": "48828",
+        "displayedObservations": "48828",
+        "variables": "1",
+        "cacheKey": "5D7D54B5",
+        "object": "weatherStations",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=weatherStations&cache_key=5D7D54B5&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3539893226735756402,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1611681299352,
+    "read_only": false,
+    "read_only_alternatives": []
+}
