@@ -1,6 +1,6 @@
 {
     "id": "506A5904",
-    "path": "C:/Users/benbo/Desktop/EastEuropeanRainFallProject/R-Project-Rainfall/Eurasian-Rainfall/Data/kz_stations.csv",
+    "path": "~/GitHub/eurasian-rainfall/RProject-Eurasian-Rainfall/Data/kz_stations.csv",
     "project_path": "Data/kz_stations.csv",
     "type": "text",
     "hash": "1685181716",

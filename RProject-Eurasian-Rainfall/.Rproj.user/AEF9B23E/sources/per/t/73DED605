@@ -1,0 +1,32 @@
+{
+    "id": "73DED605",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1611710843062.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "expression": "kazakhstan_filtered",
+        "caption": "kazakhstan_filtered",
+        "totalObservations": "66",
+        "displayedObservations": "66",
+        "variables": "7",
+        "cacheKey": "E475FE11",
+        "object": "kazakhstan_filtered",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=kazakhstan_filtered&cache_key=E475FE11&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2073675495152,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1611710843062,
+    "read_only": false,
+    "read_only_alternatives": []
+}

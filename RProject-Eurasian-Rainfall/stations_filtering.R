@@ -30,3 +30,14 @@ upm_stations<-filter(stations, grepl("UPM0", substr(stations$id,1,4)))
 upm_stations$url<-paste0("ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/all/", trimws(upm_stations), ".dly")
 
 write.csv(upm_stations, "Data/upm_stations.csv", row.names = FALSE)
+
+#################
+
+kazakhstan_filtered <- read.csv("C:\\Users\\benbo\\Documents\\GitHub\\eurasian-rainfall\\rainfall-stations\\kazakhstan-filtered.csv", header = TRUE)
+
+View(kazakhstan_filtered)
+
+#This transforms the "id" column into a character vector before using paste.
+kazakhstan_station_string <- paste(unlist(kazakhstan_filtered$id), collapse =",")
+
+kazakhstan_station_string

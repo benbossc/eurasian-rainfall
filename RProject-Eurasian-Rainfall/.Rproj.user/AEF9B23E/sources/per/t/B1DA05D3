@@ -1,9 +1,9 @@
 {
     "id": "B1DA05D3",
-    "path": "C:/Users/benbo/Desktop/EastEuropeanRainFallProject/R-Project-Rainfall/Eurasian-Rainfall/stations_filtering.R",
+    "path": "~/GitHub/eurasian-rainfall/RProject-Eurasian-Rainfall/stations_filtering.R",
     "project_path": "stations_filtering.R",
     "type": "r_source",
-    "hash": "2752461710",
+    "hash": "3324159434",
     "contents": "",
     "dirty": false,
     "created": 1611681041371.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "31,22",
-        "scrollLine": "9"
+        "cursorPosition": "41,0",
+        "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611709670,
+    "lastKnownWriteTime": 1611714196,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611709670728,
+    "last_content_update": 1611714196397,
     "read_only": false,
     "read_only_alternatives": []
 }
