@@ -1,0 +1,67 @@
+id,latitude,longitude,elevation,state,name,ADM0_EN,ADM0_KK,ADM0_RU,ADM0_PCODE,ADM1_EN,ADM1_KK,ADM1_RU,ADM1_PCODE
+KZ000028879,53.283,69.383,"229",,KOKSHETAY,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000028978,52.533,68.75,"399",,BALKASINO,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000028984,52.95,70.217,"384",,SUCINSK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035067,51.883,66.333,"221",,ESIL,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035069,51.9,67.3,"377",,JAKSI,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035078,51.8167,68.3667,"304",,ATBASAR,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035081,52.4,70.2,"331",,VOZNESENKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035082,52.4,71.8,"271",,"STEPNOGORSK,AMSG",Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035085,52,70.95,"384",,AKKOL,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035163,51.6,67.567,"272",,KIJMA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035166,51.267,67.233,"252",,KAZGORODOK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035169,51.1,66.3,"237",,DERJAVINSK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035173,51.617,69.8,"305",,ZHALTYR,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035179,51.1,69.5,"340",,KRASNOZNAMENKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035182,51.7,71,"367",,"SHORTANDI,AGRO",Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035184,51.3,70.7,"322",,NOVO-ISHIMSKOE,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035191,51.633,73.167,"397",,JERMENTAU,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035263,50.9,66.6,"294",,IMENI LENIN.KOMSOMOLA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035283,50.8,72.3,"426",,VISNEVKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035284,50.583,70,"330",,KURGALJINO,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000035381,50.2,70.3,"370",,17_LET_OKTYABRYA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Akmola,Ақмола,Акмолинская,KZ11
+KZ000028764,54.5,65.8,"160",,PRESNOGOR'KOVKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028843,53.75,62.067,"187",,KOMSOMOLEC,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028854,53.75,63.167,"184",,FYODOROV SOVKHOZ,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028856,53.6,64.3,"178",,"MIHAYLOVKA,KUSTANAY",Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028861,53.8,65.3,"180",,NOVOPOKROVKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028867,53.317,65.55,"210",,URICKY,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028943,53.2,62.3,"218",,ESENKULSKAYA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028948,52.717,61.167,"260",,GEORGIYEVKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028952,53.2167,63.6167,"170",,KUSTANAI,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028954,52.9,63.2,"150",,RUDNIY,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028957,52.683,62.6,"208",,TOBOL,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028967,52.667,65.5,"209",,KARASUL,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035042,52.2,61.2,"255",,JETIGARA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035046,52,62.4,"249",,KRASNOOKTYABRSKIY,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035053,52.4,64.6,"110",,KUSMURUN,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035055,52,63.7,"214",,DIEVSKAYA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035156,51.5,64.5,"129",,NAURSUMSKIY_ZAPOVEDNIK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035157,51.1,62.9,"258",,BES-TAU,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035257,50.45,62.8,"183",,APPROXIMATE LOCALE,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035259,50.5,64.2,"105",,ARAL,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035358,49.63,63.5,"124",,TURGAJ,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035361,50.1,65.5,"142",,AMANGEL'DY,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035363,50.217,66.833,"343",,ARKALYK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035368,49.5,66.1,"210",,EKIDIN,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035459,49,64.2,"122",,SARLITAM,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000035467,48.9,65.533,"223",,BRALI,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Kostanay,Қостанай,Костанайская,KZ39
+KZ000028676,54.8331,69.15,"142",,PETROPAVLOVSK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028687,54.9,70.45,"134",,BULAYEVO,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028766,54.367,66.967,"153",,BLACOVESCHENKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028775,54.4,68.4,"115",,JAVLENKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028779,54.2,69.5,"139",,CHAGLI,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028785,54.433,70.917,"127",,VOZVISHEN SOVKHOZ,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028863,53.9,67.4,"128",,SERGEEVKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028868,53.3,67,"190",,"CHERBONNIY,SOVHOZ",Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028873,53.833,69.783,"153",,KRASNO-ARMEYSK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028877,53.317,68.1,"319",,VOLODARSKOE,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028884,53.6,70.5,"165",,CHKALOVO,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028886,53.633,72.367,"138",,KZIL-TUS SOVKHOZ,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028888,53.9,71.5,"123",,"KZILTUSSKIY,SOVHOZ",Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028894,53.7,73.2,"69",,"OZERNIY,SOVHOZ",Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028966,52.817,66.967,"227",,RUZAEVKA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028975,52.9,68.2,"330",,ARIC-BALIK,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028986,52.967,71.933,"196",,ZOLOTAJA NIVA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000028997,52.7,73.7,"89",,"KRASNOKUTSKIY,ZERNOSOVHOZ",Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,North Kazakhstan,Солтүстiк Қазақстан,Северо-Казахстанская,KZ59
+KZ000035188,51.1331,71.3667,"350",,ASTANA,Republic of Kazakhstan,Қазақстан Республикасы,Республика Казахстан,KZ,Nur-Sultan (city),Нұр-Сұлтан,Нур-Султан,KZ71
