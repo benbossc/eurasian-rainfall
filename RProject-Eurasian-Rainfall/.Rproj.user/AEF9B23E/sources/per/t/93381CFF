@@ -3,7 +3,7 @@
     "path": "~/GitHub/eurasian-rainfall/RProject-Eurasian-Rainfall/kaz_ua_rus_rainfallAnalysis.R",
     "project_path": "kaz_ua_rus_rainfallAnalysis.R",
     "type": "r_source",
-    "hash": "3461149863",
+    "hash": "367155479",
     "contents": "",
     "dirty": false,
     "created": 1611957309087.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "35,0",
-        "scrollLine": "4"
+        "cursorPosition": "57,0",
+        "scrollLine": "24"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611962978,
+    "lastKnownWriteTime": 1612277809,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611962978347,
+    "last_content_update": 1612277809011,
     "read_only": false,
     "read_only_alternatives": []
 }

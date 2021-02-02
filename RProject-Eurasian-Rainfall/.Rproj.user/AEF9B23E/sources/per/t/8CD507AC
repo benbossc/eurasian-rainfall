@@ -1,0 +1,32 @@
+{
+    "id": "8CD507AC",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612277011195.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "expression": "kaz_ua_rus_FullPrcp_yr",
+        "caption": "kaz_ua_rus_FullPrcp_yr",
+        "totalObservations": "164",
+        "displayedObservations": "164",
+        "variables": "3",
+        "cacheKey": "F128C39E",
+        "object": "kaz_ua_rus_FullPrcp_yr",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=kaz_ua_rus_FullPrcp_yr&cache_key=F128C39E&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314885436530631200,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612277011195,
+    "read_only": false,
+    "read_only_alternatives": []
+}

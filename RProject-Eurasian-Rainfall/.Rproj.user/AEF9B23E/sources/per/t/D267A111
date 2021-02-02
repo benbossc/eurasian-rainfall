@@ -1,0 +1,32 @@
+{
+    "id": "D267A111",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612277602471.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "expression": "kaz_ua_rus_FullPrcp %>% complete(nesting(STATION), DATE = seq(min(DATE),      max(DATE), 1L))",
+        "caption": "kaz_ua_rus_FullPrcp %>% complete(nesting(STATION), DATE = seq(min(DATE), ",
+        "totalObservations": 18540,
+        "displayedObservations": 18540,
+        "variables": 28,
+        "cacheKey": "0584E16C",
+        "object": "",
+        "environment": "_rs_no_env",
+        "contentUrl": "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=0584E16C&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612277128,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612277602471,
+    "read_only": false,
+    "read_only_alternatives": []
+}
