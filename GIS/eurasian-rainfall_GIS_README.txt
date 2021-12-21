@@ -1,4 +1,4 @@
-README: Last updated 2021-06-01
+README: Last updated 2021-09-19
 
 Folders
 Maps: Contains maps and various drafts.
@@ -20,6 +20,11 @@ rsm_stations.csv: All of Russian weather stations.
 russia-oblast.csv: Weather stations within Russian oblasts of interest.
 upm_stations.csv: All of Ukraine weather stations.
 ukraine-oblast.csv: Weather stations within Ukraine oblasts of interest.
+REGEN_AllStns_V1-2019_1950-2016_QualityMask.nc: A quality mask where the masked grids are of lower quality. According to Contractor et al. (2020), a "grid cell was left unmasked if it either contained at least 60 % of the days in every decade from 1950 to 2016 (7 in total) with at least one station, or both the grid cell coefficient of variation and kriging error were under the 95th percentile threshold of the 1950–2016 average coefficient of variation and 1950–2016 average kriging error respectively."
 
-Due to size constraints, REGEN data not available in this folder. REGEN data (1971-2016) can be extracted from the following:
-https://researchdata.edu.au/rainfall-estimates-gridded-v1-2019/1408744
+Due to size constraints, REGEN NetCDF (.nc) data not available in this folder (except for "REGEN_AllStns_V1-2019_1950-2016_QualityMask.nc"). 
+REGEN data (1971-2016) can be extracted from the following:
+https://researchdata.edu.au/rainfall-estimates-gridded-v1-2019/1408744 (DOI: 10.25914/5ca4c380b0d44)
+
+Reference
+Contractor, S., Donat, M. G., Alexander, L. V., Ziese, M., Meyer-Christoffer, A., Schneider, U., Rustemeier, E., Becker, A., Durre, I., and Vose, R. S.: Rainfall Estimates on a Gridded Network (REGEN) – a global land-based gridded dataset of daily precipitation from 1950 to 2016, Hydrol. Earth Syst. Sci., 24, 919–943, https://doi.org/10.5194/hess-24-919-2020, 2020.
