@@ -48,11 +48,29 @@ kaz_ua_rus_FullPrcp_yr <- kaz_ua_rus_FullPrcp %>%
 
 View(kaz_ua_rus_FullPrcp_yr)
 
+#Creating colors
+MyColor <- c("#FF0101", "#02C449", "#FFB81D")
+names(MyColor) <- c("Russia", "Ukraine", "Kazakhstan")
+
+###NOTE: I'm doing a work around here where I create a new DF where "COUNTRY" isn't capitalized so that I can incorporate in the ggplot visualization. I couldn't find a workaround." This uses "rename" function from plyr. 
+
+kaz_ua_rus_FullPrcp_yr_VIZ <- rename(kaz_ua_rus_FullPrcp_yr,c('Country'='COUNTRY'))
+
+install.packages("ggthemes") # Install 
+library(ggthemes) # Load
+
+install.packages("ggrepel")
+library(ggrepel)
+
 #Creates a time series plot from mean per country per year
-ggplot(data = kaz_ua_rus_FullPrcp_yr, aes(x = DATE, y = average, color = COUNTRY)) +
-  geom_line()
+ggplot(data = kaz_ua_rus_FullPrcp_yr_VIZ, aes(x = DATE, y = average, color = Country, linetype = Country)) +
+  geom_line(size = 1.2) +
+  labs(title = "GHCND (Global Historical Climatology Network Daily): Black Earth Belt", x = "Year", y = "Average Rainfall (mm)") +
+  scale_linetype_manual(values=c("solid", "solid", "twodash")) +
+  scale_color_manual(values=c("#FFB81D", "#FF0101", "#02C449")) +
+  theme_economist()
 
 #Space to create CSV files
-write.csv(kaz_ua_rus_FullPrcp, 'Data\\kaz_ua_rus.csv')
-write.csv(kaz_ua_rus_countryFreq, 'Data\\kaz_ua_rus_country.csv')
-write.csv(kaz_ua_rus_FullPrcp_yr, 'Data\\kaz_ua_rus_timeseries.csv')
+#write.csv(kaz_ua_rus_FullPrcp, 'Data\\kaz_ua_rus.csv')
+#write.csv(kaz_ua_rus_countryFreq, 'Data\\kaz_ua_rus_country.csv')
+#write.csv(kaz_ua_rus_FullPrcp_yr, 'Data\\kaz_ua_rus_timeseries.csv')
