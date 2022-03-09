@@ -1,0 +1,9 @@
+install.packages("tidyverse")
+install.packages("rvest")
+install.packages("robotstxt")
+
+library(tidyverse)
+library(rvest)
+library(robotstxt)
+
+robotstxt::paths_allowed("https://opensecrets.org")
