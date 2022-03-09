@@ -1,7 +1,6 @@
-README: Last updated 2021-09-19
+README: Last updated 2022-03-09
 
 Folders
-Maps: Contains maps and various drafts.
 Legends: Contain legends and various drafts.
 ne_50m_ocean: Derives from 10m ocean coastlines. Ocean polygon is the same as Bathymetry 0 (sea level). (see https://www.naturalearthdata.com/).
 RussiaOblastBoundaries: Russian oblast SHP/GIS. See http://mydata.biz/ for download source.
