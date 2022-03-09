@@ -1,4 +1,5 @@
 Black Earth Belt Rainfall Project
+Ben B. Chiewphasa // benchiewphasa.com // ORCID: 0000-0003-4582-8461
 README updated: 2022-03-09
 
 Project in collaboration with Susanne Wengle and Raushan Zhandayeva. Goal is to examine the precipitation
