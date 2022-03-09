@@ -4,6 +4,10 @@ README updated: 2022-03-09
 Project in collaboration with Susanne Wengle and Raushan Zhandayeva. Goal is to examine the precipitation
 patterns/trends across Eurasian's "Black Earth Belt" region (Kazakhstan, Russia, Ukraine).
 
+Maps made possible using data from "Rainfall Estimates on a Gridded Network based on all station data v1-2019."
+Aggregated by Steefan Contractor. Managed by ARC Centre of Excellence for Climate System Science Data Manager.
+https://researchdata.edu.au/rainfall-estimates-gridded-v1-2019/1408744 (DOI: 10.25914/5ca4c380b0d44)
+
 **Map Files**
 BlackEarthBelt_1961-1976_v3_20220309.jpg: Highlights average total annual mean for 1961-1976.
 BlackEarthBelt_1961-1976_v3_20220309_noLegend.jpg: "BlackEarthBelt_1961-1976_v3_20220309" map but with no legend.
